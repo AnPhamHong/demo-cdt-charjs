@@ -1,0 +1,215 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@400;600;700;800&display=swap");
+
+// fonts
+$mulish: "Mulish", sans-serif;
+
+// Colors
+$bg: #e5e5e5;
+// dark mode
+$dark: #161c24;
+$dividerLine: #3c4752;
+$lightBlack: #212b36;
+$lightBlack2: #26323f;
+// light mode
+$red: #eb5757;
+$darkGray: #929292;
+$white: #fff;
+$lightGray: #fafafa;
+$orange: #f2994a;
+$black: #252733;
+$green: #33c863;
+$darkGreen: #026338;
+$dividerLineLight: #dddfe5;
+
+// app bar
+$appbarwidth: 15.875rem;
+
+// other
+$letterSpacing: 0.4px;
+$borderRadius: 12px;
+
+.flex-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  width: 100%;
+}
+
+.layout-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.bgc-shadow {
+  margin: 0 auto;
+  background-color: #fff;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border-radius: 10px;
+  padding: 24px 16px;
+}
+
+.dashboard {
+  color: #1c2b4b;
+  font-family: "SF Pro Display";
+
+  .title-page {
+    font-weight: 600;
+    font-size: 24px;
+  }
+
+  .cards-container {
+    display: grid;
+    grid-auto-flow: column;
+    gap: 16px;
+    // grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    .card {
+      cursor: default;
+      &:hover {
+        box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+        border: 1px solid #cccccc;
+      }
+      .card-description {
+        text-transform: capitalize;
+        font-weight: 400;
+        font-size: 12px;
+        text-align: left;
+      }
+
+      .card-statistic {
+        text-align: right;
+        font-weight: 600;
+        font-size: 24px;
+      }
+
+      .card-text-prefix {
+        font-size: 12px;
+        margin-left: 6px;
+      }
+    }
+  }
+
+  .chart-container {
+
+    // &.earnings {
+    //     width: 100%;
+    //     min-width: 900px;
+    //     padding: 32px;
+    //     border-radius: $borderRadius;
+    
+    //     &.light__mode {
+    //         background: $white;
+    //         border: 1px solid $dividerLineLight;
+    //     }
+    
+    //     &.dark__mode {
+    //         background: $lightBlack;
+    //         border: 1px solid $dividerLine;
+    //     }
+    
+    //     &__headline {
+    //         display: flex;
+    //         margin-bottom: 24px;
+    //         justify-content: space-between;
+    //         align-items: center;
+    
+    //         &__title {
+    //             font-size: 20px;
+    //             line-height: 25px;
+    //             font-weight: 700;
+    //             letter-spacing: $letterSpacing;
+    
+    //             &.light__mode {
+    //                 color: $black;
+    //             }
+    //             &.dark__mode {
+    //                 color: $white;
+    //             }
+    //         }
+    
+    //         &__content {
+    //             display: flex;
+    //             align-items: center;
+    
+    //             .legend {
+    //                 display: flex;
+    //                 margin-right: 48px;
+    
+    //                 &__item {
+    //                     display: flex;
+    //                     align-items: center;
+    
+    //                     &:not(:last-child) {
+    //                         margin-right: 24px;
+    //                     }
+    
+    //                     span {
+    //                         font-weight: 700;
+    //                         font-size: 1rem;
+    //                         letter-spacing: $letterSpacing;
+    //                         &.light__mode {
+    //                             color: $black;
+    //                         }
+    //                         &.dark__mode {
+    //                             color: $white;
+    //                         }
+    //                     }
+    
+    //                     div {
+    //                         width: 24px;
+    //                         height: 24px;
+    //                         border-radius: 50%;
+    //                         margin-right: 12px;
+    //                     }
+    //                     div.green {
+    //                         background: $green;
+    //                     }
+    //                     div.orange {
+    //                         background: $orange;
+    //                     }
+    //                 }
+    //             }
+    
+    //             .filter {
+    //                 cursor: pointer;
+    //                 display: flex;
+    //                 align-items: center;
+    //                 justify-content: center;
+    //                 padding: 8px 16px;
+    //                 border-radius: $borderRadius;
+    //                 span {
+    //                     margin-right: 4px;
+    //                 }
+    
+    //                 &.light__mode {
+    //                     background: $lightGray;
+    
+    //                     span {
+    //                         color: $darkGray;
+    //                     }
+    //                 }
+    //                 &.dark__mode {
+    //                     background: $lightBlack2;
+    
+    //                     span {
+    //                         color: $white;
+    //                     }
+    //                 }
+    //             }
+    //         }
+    //     }
+    
+    //     &__chart {
+    //         display: flex;
+    //         height: 350px;
+    //         margin-bottom: 24px;
+    //     }
+    // }
+    
+  }
+}
