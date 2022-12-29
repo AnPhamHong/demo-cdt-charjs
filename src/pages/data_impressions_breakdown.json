@@ -1,0 +1,382 @@
+[
+	{
+		"id": "6E73A2C8-4339-9ED1-250C-D86BD02096D5",
+		"widget_name": "Countdown timer",
+		"total_impressions": 16,
+		"percent_total_impressions": 52,
+		"unique_impressions": 776,
+		"percent_unique_impressions": 2,
+		"user_impressions": 2,
+		"percent_user_impressions": 97
+	},
+	{
+		"id": "E24955B9-BE31-9C6B-481C-4ACE58E4CBBC",
+		"widget_name": "Countdown timer",
+		"total_impressions": 188,
+		"percent_total_impressions": 62,
+		"unique_impressions": 600,
+		"percent_unique_impressions": 26,
+		"user_impressions": 6,
+		"percent_user_impressions": 61
+	},
+	{
+		"id": "ED3A2E73-61AF-33EC-1466-442B3816BAE7",
+		"widget_name": "Countdown timer",
+		"total_impressions": 952,
+		"percent_total_impressions": 74,
+		"unique_impressions": 804,
+		"percent_unique_impressions": 77,
+		"user_impressions": 4,
+		"percent_user_impressions": 12
+	},
+	{
+		"id": "E19AC10E-525D-7791-8D77-3C3285558A70",
+		"widget_name": "Countdown timer",
+		"total_impressions": 885,
+		"percent_total_impressions": 76,
+		"unique_impressions": 804,
+		"percent_unique_impressions": 33,
+		"user_impressions": 5,
+		"percent_user_impressions": 76
+	},
+	{
+		"id": "8D9FD5EE-F9FA-76EE-3354-CAD96C6B3FCA",
+		"widget_name": "Announcemt bar",
+		"total_impressions": 960,
+		"percent_total_impressions": 4,
+		"unique_impressions": 556,
+		"percent_unique_impressions": 49,
+		"user_impressions": 1,
+		"percent_user_impressions": 9
+	},
+	{
+		"id": "194B2464-3B77-085D-F525-64AACDDB7ED2",
+		"widget_name": "Announcemt bar",
+		"total_impressions": 884,
+		"percent_total_impressions": 48,
+		"unique_impressions": 726,
+		"percent_unique_impressions": 11,
+		"user_impressions": 7,
+		"percent_user_impressions": 83
+	},
+	{
+		"id": "99CC4EB0-44AC-20CD-4C23-7F3A914C7A67",
+		"widget_name": "Announcemt bar",
+		"total_impressions": 323,
+		"percent_total_impressions": 40,
+		"unique_impressions": 824,
+		"percent_unique_impressions": 4,
+		"user_impressions": 6,
+		"percent_user_impressions": 75
+	},
+	{
+		"id": "19174A5F-CC53-3844-B507-985EC8392348",
+		"widget_name": "Announcemt bar",
+		"total_impressions": 887,
+		"percent_total_impressions": 16,
+		"unique_impressions": 272,
+		"percent_unique_impressions": 83,
+		"user_impressions": 4,
+		"percent_user_impressions": 48
+	},
+	{
+		"id": "1447925E-1DC8-8763-C464-5E3CB5C12917",
+		"widget_name": "Quantity bar",
+		"total_impressions": 228,
+		"percent_total_impressions": 15,
+		"unique_impressions": 444,
+		"percent_unique_impressions": 31,
+		"user_impressions": 3,
+		"percent_user_impressions": 60
+	},
+	{
+		"id": "942A4BF3-991B-B778-4F6A-7027482C4858",
+		"widget_name": "Quantity bar",
+		"total_impressions": 312,
+		"percent_total_impressions": 49,
+		"unique_impressions": 4,
+		"percent_unique_impressions": 11,
+		"user_impressions": 10,
+		"percent_user_impressions": 92
+	},
+	{
+		"id": "2C97FC38-3BAF-614A-1C66-1F59C415849E",
+		"widget_name": "Quantity bar",
+		"total_impressions": 231,
+		"percent_total_impressions": 88,
+		"unique_impressions": 419,
+		"percent_unique_impressions": 17,
+		"user_impressions": 2,
+		"percent_user_impressions": 95
+	},
+	{
+		"id": "691A73BA-DA3F-6EB4-4FBD-06C90610DC57",
+		"widget_name": "Quantity bar",
+		"total_impressions": 953,
+		"percent_total_impressions": 21,
+		"unique_impressions": 194,
+		"percent_unique_impressions": 68,
+		"user_impressions": 10,
+		"percent_user_impressions": 22
+	},
+	{
+		"id": "8FACCA30-0DD6-87BC-9EC0-3DB44792E783",
+		"widget_name": "Email embed",
+		"total_impressions": 195,
+		"percent_total_impressions": 89,
+		"unique_impressions": 51,
+		"percent_unique_impressions": 14,
+		"user_impressions": 1,
+		"percent_user_impressions": 12
+	},
+	{
+		"id": "B1BC5A51-8F04-1E82-8DB4-2D0CB8B04358",
+		"widget_name": "Email embed",
+		"total_impressions": 832,
+		"percent_total_impressions": 30,
+		"unique_impressions": 457,
+		"percent_unique_impressions": 54,
+		"user_impressions": 6,
+		"percent_user_impressions": 13
+	},
+	{
+		"id": "3DDE9EE3-2D99-DC7E-C477-36767534DF9B",
+		"widget_name": "Email embed",
+		"total_impressions": 137,
+		"percent_total_impressions": 72,
+		"unique_impressions": 442,
+		"percent_unique_impressions": 55,
+		"user_impressions": 8,
+		"percent_user_impressions": 14
+	},
+	{
+		"id": "E49D4D79-63DE-8D6E-BCE5-C97AC511269D",
+		"widget_name": "Email embed",
+		"total_impressions": 944,
+		"percent_total_impressions": 86,
+		"unique_impressions": 918,
+		"percent_unique_impressions": 49,
+		"user_impressions": 6,
+		"percent_user_impressions": 45
+	},
+	{
+		"id": "6C6E6EE4-5423-93AA-2AD3-1E402C142198",
+		"widget_name": "Countdown timer",
+		"total_impressions": 419,
+		"percent_total_impressions": 4,
+		"unique_impressions": 463,
+		"percent_unique_impressions": 72,
+		"user_impressions": 5,
+		"percent_user_impressions": 33
+	},
+	{
+		"id": "1D8D4D7D-181B-A914-287A-19B619105C93",
+		"widget_name": "Countdown timer",
+		"total_impressions": 353,
+		"percent_total_impressions": 59,
+		"unique_impressions": 657,
+		"percent_unique_impressions": 83,
+		"user_impressions": 2,
+		"percent_user_impressions": 25
+	},
+	{
+		"id": "C1E085DE-5BDF-611B-A5E3-2B74986F1BE1",
+		"widget_name": "Countdown timer",
+		"total_impressions": 191,
+		"percent_total_impressions": 74,
+		"unique_impressions": 200,
+		"percent_unique_impressions": 49,
+		"user_impressions": 7,
+		"percent_user_impressions": 10
+	},
+	{
+		"id": "4654C5AB-C1E1-9C8D-4A12-B83B97327C35",
+		"widget_name": "Countdown timer",
+		"total_impressions": 392,
+		"percent_total_impressions": 12,
+		"unique_impressions": 678,
+		"percent_unique_impressions": 34,
+		"user_impressions": 2,
+		"percent_user_impressions": 22
+	},
+	{
+		"id": "359D411D-6CCA-4946-B436-EC5890C7D93D",
+		"widget_name": "Announcemt bar",
+		"total_impressions": 316,
+		"percent_total_impressions": 3,
+		"unique_impressions": 976,
+		"percent_unique_impressions": 13,
+		"user_impressions": 6,
+		"percent_user_impressions": 59
+	},
+	{
+		"id": "74DC61C1-C319-1287-5CC8-533C70DB9B9A",
+		"widget_name": "Announcemt bar",
+		"total_impressions": 805,
+		"percent_total_impressions": 11,
+		"unique_impressions": 642,
+		"percent_unique_impressions": 4,
+		"user_impressions": 2,
+		"percent_user_impressions": 83
+	},
+	{
+		"id": "0DAF871F-35FC-B29A-F99A-112E3E56AD92",
+		"widget_name": "Announcemt bar",
+		"total_impressions": 793,
+		"percent_total_impressions": 70,
+		"unique_impressions": 716,
+		"percent_unique_impressions": 71,
+		"user_impressions": 2,
+		"percent_user_impressions": 21
+	},
+	{
+		"id": "C934F339-CFAB-2A92-D8FC-C11297E2AEE2",
+		"widget_name": "Announcemt bar",
+		"total_impressions": 144,
+		"percent_total_impressions": 63,
+		"unique_impressions": 826,
+		"percent_unique_impressions": 28,
+		"user_impressions": 7,
+		"percent_user_impressions": 29
+	},
+	{
+		"id": "AA16A799-181A-1103-D8D3-CB57A3526A6F",
+		"widget_name": "Quantity bar",
+		"total_impressions": 791,
+		"percent_total_impressions": 75,
+		"unique_impressions": 836,
+		"percent_unique_impressions": 97,
+		"user_impressions": 5,
+		"percent_user_impressions": 86
+	},
+	{
+		"id": "3BC16D39-5682-5859-2416-DBB088624BD6",
+		"widget_name": "Quantity bar",
+		"total_impressions": 427,
+		"percent_total_impressions": 72,
+		"unique_impressions": 842,
+		"percent_unique_impressions": 5,
+		"user_impressions": 8,
+		"percent_user_impressions": 33
+	},
+	{
+		"id": "AD4DA1DF-1158-A4CC-01CC-7E996C2E4FD7",
+		"widget_name": "Quantity bar",
+		"total_impressions": 797,
+		"percent_total_impressions": 39,
+		"unique_impressions": 185,
+		"percent_unique_impressions": 5,
+		"user_impressions": 5,
+		"percent_user_impressions": 67
+	},
+	{
+		"id": "D13916A3-35DD-4D93-7732-9C6ACC2585F2",
+		"widget_name": "Quantity bar",
+		"total_impressions": 124,
+		"percent_total_impressions": 79,
+		"unique_impressions": 215,
+		"percent_unique_impressions": 15,
+		"user_impressions": 6,
+		"percent_user_impressions": 15
+	},
+	{
+		"id": "CA9BD288-CEFC-AB43-BC0F-B16CB5432D7E",
+		"widget_name": "Email embed",
+		"total_impressions": 427,
+		"percent_total_impressions": 81,
+		"unique_impressions": 869,
+		"percent_unique_impressions": 98,
+		"user_impressions": 0,
+		"percent_user_impressions": 35
+	},
+	{
+		"id": "B9AE4548-1A80-802D-AA65-EB3BD6B387A3",
+		"widget_name": "Email embed",
+		"total_impressions": 470,
+		"percent_total_impressions": 91,
+		"unique_impressions": 93,
+		"percent_unique_impressions": 29,
+		"user_impressions": 9,
+		"percent_user_impressions": 1
+	},
+	{
+		"id": "16D08EFB-DE4D-6956-5ABF-ED9922308A33",
+		"widget_name": "Email embed",
+		"total_impressions": 581,
+		"percent_total_impressions": 10,
+		"unique_impressions": 174,
+		"percent_unique_impressions": 55,
+		"user_impressions": 4,
+		"percent_user_impressions": 27
+	},
+	{
+		"id": "69676BB6-6B45-589E-B3B6-0CB5C1C3D752",
+		"widget_name": "Email embed",
+		"total_impressions": 882,
+		"percent_total_impressions": 68,
+		"unique_impressions": 290,
+		"percent_unique_impressions": 24,
+		"user_impressions": 3,
+		"percent_user_impressions": 21
+	},
+	{
+		"id": "529EDE6B-7D75-A2F7-D77C-A1BCF8E9B57B",
+		"widget_name": "Countdown timer",
+		"total_impressions": 771,
+		"percent_total_impressions": 52,
+		"unique_impressions": 857,
+		"percent_unique_impressions": 99,
+		"user_impressions": 2,
+		"percent_user_impressions": 29
+	},
+	{
+		"id": "D9654774-565C-EBAD-79B0-DD786CD434C6",
+		"widget_name": "Countdown timer",
+		"total_impressions": 380,
+		"percent_total_impressions": 58,
+		"unique_impressions": 563,
+		"percent_unique_impressions": 89,
+		"user_impressions": 9,
+		"percent_user_impressions": 59
+	},
+	{
+		"id": "F87E0F66-C382-F179-C5B5-204C24464AE6",
+		"widget_name": "Countdown timer",
+		"total_impressions": 740,
+		"percent_total_impressions": 62,
+		"unique_impressions": 709,
+		"percent_unique_impressions": 14,
+		"user_impressions": 7,
+		"percent_user_impressions": 33
+	},
+	{
+		"id": "AF993D3D-85E7-BB18-3587-44ACD3E79CD3",
+		"widget_name": "Countdown timer",
+		"total_impressions": 584,
+		"percent_total_impressions": 97,
+		"unique_impressions": 509,
+		"percent_unique_impressions": 29,
+		"user_impressions": 7,
+		"percent_user_impressions": 1
+	},
+	{
+		"id": "0944E3E3-33ED-6F68-E567-005F73DA6843",
+		"widget_name": "Announcemt bar",
+		"total_impressions": 389,
+		"percent_total_impressions": 83,
+		"unique_impressions": 824,
+		"percent_unique_impressions": 98,
+		"user_impressions": 4,
+		"percent_user_impressions": 98
+	},
+	{
+		"id": "26952311-5357-DBB7-37A3-D16E44A1BBE0",
+		"widget_name": "Announcemt bar",
+		"total_impressions": 768,
+		"percent_total_impressions": 87,
+		"unique_impressions": 168,
+		"percent_unique_impressions": 68,
+		"user_impressions": 10,
+		"percent_user_impressions": 89
+	}
+]

@@ -1,11 +1,12 @@
-import React, { useCallback, useEffect, useMemo, useState } from "react";
-import CardOverview from "./Card";
+import React, { useMemo, useState } from "react";
+import CardOverview from "./card";
 import "./sass/_dashboard.scss";
 import { DatePicker } from "antd";
 import dayjs from "dayjs";
-import ChartContainer from "./Chart";
+import ChartContainer from "./chart";
 import moment from "moment/moment";
 import _ from "lodash";
+import Impressions from "./impressions";
 
 const { RangePicker } = DatePicker;
 const currentDate = dayjs();
@@ -103,6 +104,7 @@ const Dashboard = () => {
       </div>
       <CardOverview />
       <ChartContainer loading={loading} data={dataChart} />
+      <Impressions />
     </div>
   );
 };

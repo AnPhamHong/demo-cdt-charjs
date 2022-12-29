@@ -3,17 +3,21 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "author": {"name": "An Pham Hong", "email": "an.ph410@gmail.com"},
+  "author": {
+    "name": "An Pham Hong",
+    "email": "an.ph410@gmail.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview --port 8080"
   },
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
     "antd": "^5.1.1",
     "chart.js": "^4.1.1",
     "dayjs": "^1.11.7",
+    "gh-pages": "^4.0.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
     "react": "^18.2.0",

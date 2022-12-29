@@ -1,5 +1,6 @@
 import React from "react";
 import { Chart } from "react-chartjs-2";
+
 import {
   Chart as ChartJS,
   CategoryScale,
@@ -10,11 +11,12 @@ import {
   Tooltip,
   Legend,
   Filler,
+  LineController,
 } from "chart.js";
 
 import { Skeleton } from "antd";
 
-ChartJS.register(
+ChartJS.register(LineController, 
   CategoryScale,
   LinearScale,
   PointElement,
@@ -26,7 +28,6 @@ ChartJS.register(
 );
 
 const ChartContainer = (props) => {
-  console.log(props);
   return (
     <React.Fragment>
       {props.loading ? (
